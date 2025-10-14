@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Rob — I make Youtube videos about Cloud Infrastructure</h1>
 
-<!--
-**robertdippolito/robertdippolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://robertdippolito.me">Website</a> •
+  <a href="https://www.youtube.com/@RobOps101">YouTube</a> 
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robertdippolito&show_icons=true" alt="Rob's GitHub Stats" height="170">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdippolito&layout=compact" alt="Top Langs" height="170">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Latest Video
+<p align="center">
+  <a href="https://youtu.be/1P0nCvpzx1E" title="Cross-account S3 via IRSA (EKS + STS Demo)">
+    <img src="https://img.youtube.com/vi/1P0nCvpzx1E/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  </a>
+</p>
+
+## Got a question?
+Raise an issue on my page and I will respond when I can!
