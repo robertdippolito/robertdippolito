@@ -13,8 +13,8 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/1P0nCvpzx1E" title="Cross-account S3 via IRSA (EKS + STS Demo)">
-    <img src="https://img.youtube.com/vi/1P0nCvpzx1E/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/n2iRevbiv7A" title="Build a Website from Scratch (Part 2) – Host Your Site on AWS (S3 + CloudFront)">
+    <img src="https://img.youtube.com/vi/n2iRevbiv7A/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
