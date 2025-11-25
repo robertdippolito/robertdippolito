@@ -13,8 +13,8 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/n2iRevbiv7A" title="Build a Website from Scratch (Part 2) – Host Your Site on AWS (S3 + CloudFront)">
-    <img src="https://img.youtube.com/vi/n2iRevbiv7A/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/gmvALh5Ohyk" title="Build a Website from Scratch (Part 2) – Host Your Site on AWS (S3 + CloudFront)">
+    <img src="https://img.youtube.com/vi/gmvALh5Ohyk/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
