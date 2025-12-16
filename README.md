@@ -13,8 +13,8 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/gmvALh5Ohyk" title="Build a Website from Scratch (Part 2) – Host Your Site on AWS (S3 + CloudFront)">
-    <img src="https://img.youtube.com/vi/gmvALh5Ohyk/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/L8crQ_Elyh0" title="Durable Terraform Applies with Temporal (Retries, State, Parallel Modules)">
+    <img src="https://img.youtube.com/vi/L8crQ_Elyh0/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
