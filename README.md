@@ -13,8 +13,8 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/L8crQ_Elyh0" title="Durable Terraform Applies with Temporal (Retries, State, Parallel Modules)">
-    <img src="https://img.youtube.com/vi/L8crQ_Elyh0/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/Rsbh3zf_VaM" title="Durable Terraform Applies with Temporal (Retries, State, Parallel Modules)">
+    <img src="https://img.youtube.com/vi/Rsbh3zf_VaM/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
