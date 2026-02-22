@@ -13,8 +13,8 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/wX0lLmEwkNY)" title="Monolithic SQL vs dbt: Build Testable Data Pipelines (Airflow Demo)">
-    <img src="https://img.youtube.com/vi/wX0lLmEwkNY/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/c-U3qLxOoEI" title="AWS Fundamentals: AWS VPC Peering Explained (Step-by-Step Tutorial)">
+    <img src="https://img.youtube.com/vi/c-U3qLxOoEI/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
