@@ -5,12 +5,6 @@
   <a href="https://www.youtube.com/@RobOps101">YouTube</a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertdippolito&show_icons=true" alt="Rob's GitHub Stats" height="170">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdippolito&layout=compact" alt="Top Langs" height="170">
-</p>
-
 ## Latest Video
 <p align="center">
   <a href="https://youtu.be/c-U3qLxOoEI" title="AWS Fundamentals: AWS VPC Peering Explained (Step-by-Step Tutorial)">
