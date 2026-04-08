@@ -7,8 +7,8 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/pfOPJjAor08" title="AWS Fundamentals: AWS Cloud WAN Explained in 12 Minutes">
-    <img src="https://img.youtube.com/vi/pfOPJjAor08/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/kkF0CpJTXx8" title="AI Fundamentals: MCP Servers Explained">
+    <img src="https://img.youtube.com/vi/kkF0CpJTXx8/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
