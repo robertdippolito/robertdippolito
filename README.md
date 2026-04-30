@@ -7,10 +7,11 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/kkF0CpJTXx8" title="AI Fundamentals: MCP Servers Explained">
-    <img src="https://img.youtube.com/vi/kkF0CpJTXx8/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/M7LXt-i8X8U" title="AI Fundamentals: LLM Skills Explained (With a Real Game Dev Example)">
+    <img src="https://img.youtube.com/vi/M7LXt-i8X8U/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
 ## Got a question?
 Raise an issue on my page and I will respond when I can!
+
