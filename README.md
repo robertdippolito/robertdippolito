@@ -7,8 +7,8 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/M7LXt-i8X8U" title="AI Fundamentals: LLM Skills Explained (With a Real Game Dev Example)">
-    <img src="https://img.youtube.com/vi/M7LXt-i8X8U/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/GXluGqvX598" title="AI Fundamentals: I Hit My Rate Limit — So I Self-Hosted an LLM Instead">
+    <img src="https://img.youtube.com/vi/GXluGqvX598/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
