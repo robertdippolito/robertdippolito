@@ -7,8 +7,8 @@
 
 ## Latest Video
 <p align="center">
-  <a href="https://youtu.be/GXluGqvX598" title="AI Fundamentals: I Hit My Rate Limit — So I Self-Hosted an LLM Instead">
-    <img src="https://img.youtube.com/vi/GXluGqvX598/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/R5hik5v7iak" title="Build Your First Machine Learning Model From Scratch">
+    <img src="https://img.youtube.com/vi/R5hik5v7iak/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
