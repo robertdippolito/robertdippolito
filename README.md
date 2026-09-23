@@ -4,10 +4,10 @@
   <a href="https://robertdippolito.me">Website</a> •
   <a href="https://www.youtube.com/@RobOps101">YouTube</a> 
 </p>
-## Latest Video
+<h1>Latest Video</h1>
 <p align="center">
-  <a href="https://youtu.be/4mB-kfp1jGU" title="Can You Actually Run an MMO in a Browser?">
-    <img src="https://img.youtube.com/vi/4mB-kfp1jGU/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/hWSs_tgBwao" title="Kubernetes DaemonSets Explained: One Pod on Every Node">
+    <img src="https://img.youtube.com/vi/hWSs_tgBwao/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
