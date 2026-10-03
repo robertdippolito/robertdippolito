@@ -6,8 +6,8 @@
 </p>
 <h1>Latest Video</h1>
 <p align="center">
-  <a href="https://youtu.be/hWSs_tgBwao" title="EKS Experiments: Kubernetes Canary Rollout: From 0% to 100% with a ConfigMap">
-    <img src="https://img.youtube.com/vi/hWSs_tgBwao/maxresdefault.jpg" alt="Watch on YouTube" width="600">
+  <a href="https://youtu.be/ktXrDsBxWt4" title="EKS Experiments: Kubernetes Canary Rollout: From 0% to 100% with a ConfigMap">
+    <img src="https://img.youtube.com/vi/ktXrDsBxWt4/maxresdefault.jpg" alt="Watch on YouTube" width="600">
   </a>
 </p>
 
